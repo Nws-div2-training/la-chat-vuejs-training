@@ -1,5 +1,5 @@
 # la-chat-policy
-
+# Steps fof newbie
 ## Project setup
 ```
 npm install
